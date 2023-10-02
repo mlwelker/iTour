@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A23265252AC9D8BD005E8F38 /* EditDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23265242AC9D8BD005E8F38 /* EditDestinationView.swift */; };
 		A2E1E0B32AC93107007A2B48 /* iTourApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2E1E0B22AC93107007A2B48 /* iTourApp.swift */; };
 		A2E1E0B52AC93107007A2B48 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2E1E0B42AC93107007A2B48 /* ContentView.swift */; };
 		A2E1E0B72AC93109007A2B48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2E1E0B62AC93109007A2B48 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A23265242AC9D8BD005E8F38 /* EditDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDestinationView.swift; sourceTree = "<group>"; };
 		A2E1E0AF2AC93107007A2B48 /* iTour.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iTour.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2E1E0B22AC93107007A2B48 /* iTourApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iTourApp.swift; sourceTree = "<group>"; };
 		A2E1E0B42AC93107007A2B48 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			children = (
 				A2E1E0B22AC93107007A2B48 /* iTourApp.swift */,
 				A2E1E0B42AC93107007A2B48 /* ContentView.swift */,
+				A23265242AC9D8BD005E8F38 /* EditDestinationView.swift */,
 				A2E1E0C02AC93189007A2B48 /* Destination.swift */,
 				A2E1E0B62AC93109007A2B48 /* Assets.xcassets */,
 				A2E1E0B82AC93109007A2B48 /* Preview Content */,
@@ -143,6 +146,7 @@
 				A2E1E0B52AC93107007A2B48 /* ContentView.swift in Sources */,
 				A2E1E0B32AC93107007A2B48 /* iTourApp.swift in Sources */,
 				A2E1E0C12AC93189007A2B48 /* Destination.swift in Sources */,
+				A23265252AC9D8BD005E8F38 /* EditDestinationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
